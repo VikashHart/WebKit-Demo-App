@@ -1,0 +1,6 @@
+framework module Pods_FellowsWebTests {
+  umbrella header "Pods-FellowsWebTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
